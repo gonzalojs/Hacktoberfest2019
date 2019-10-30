@@ -71,3 +71,4 @@ and now using the same repository for Hacktoberfest 2019!
 | Akshita Sah | https://github.com/akshi0409 |
 | Hannah Guo | https://github.com/HannahGuo |
 | Geovani França | https://github.com/geovanipfranca |
+| Eugenio Gutierrez | https://github.com/gonzalojs |
